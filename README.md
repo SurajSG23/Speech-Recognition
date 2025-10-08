@@ -50,7 +50,13 @@ It involves analyzing sound waves, extracting useful patterns, and matching them
    * Combines both sound and language models to produce the final text.
 
 ---
+## How Speech-to-Text Works
 
+```
+Speech → Preprocessing → Feature Extraction → Acoustic Model → Phonemes → Language Model → Words → Text
+```
+
+---
 ## Applications
 
 * Voice assistants (Alexa, Siri, Google Assistant)
