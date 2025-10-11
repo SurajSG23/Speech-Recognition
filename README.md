@@ -1,3 +1,10 @@
+# Repo Content:
+
+```
+├── Module-1.ipynb          # Introductory module for audio processing and speech recognition
+├── Module-2.ipynb          # Module focusing on Whisper model transcription and evaluation
+```
+
 # Speech Recognition
 
 ## Overview
